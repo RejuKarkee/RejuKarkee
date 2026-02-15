@@ -1,31 +1,47 @@
 # Hi, I'm Reju 👋
 
-**Aspiring Data Analyst** | Python • SQL • Excel | Master’s in Computer Science (GPA 3.9)
+Data Engineering Trainee | Python • SQL • Cloud  
+Master’s in Computer Science (GPA 3.9)  
+Google Data Analytics Certified | AWS Cloud Practitioner
 
 ---
 
 ## 🔹 About Me
-I’m a Master’s student in Computer Science with strong foundations in Python, SQL, and Excel.  
-I enjoy transforming raw data into clear, actionable insights and building solutions that support business decisions.  
-Currently, I’m focusing on projects in **data cleaning, analysis, and visualization**.
+
+I am currently transitioning into Data Engineering through structured training and hands-on projects.  
+
+With a background in data analysis and database design, I am now focusing on building scalable data workflows, SQL optimization, and cloud-based data systems.
 
 ---
 
-## 📂 Portfolio Highlights
-- 🚌 **Online Bus Booking System** – Designed database schema, applied SQL queries, and built a Python Tkinter interface.  
-- 📊 **Retail Sales Analysis** – Cleaned and analyzed sales data using pandas and SQL, built an Excel dashboard with insights.  
-- 🧾 **SQL Mini-Projects** – Queries for joins, aggregations, and reporting KPIs on sample datasets.  
+## 🔹 Technical Skills
+
+**Programming**
+- Python (pandas, data transformation)
+- SQL (joins, aggregations, subqueries)
+
+**Data Concepts**
+- Data Cleaning & Transformation
+- Relational Database Design (ERD)
+- KPI Reporting & Aggregation Logic
+
+**Cloud**
+- AWS (Cloud Practitioner)
+- Azure (in progress)
+
+**Tools**
+- Git & GitHub
+- Excel / Power BI
 
 ---
 
-## 🛠️ Skills
-- **Programming & Data:** Python (pandas), SQL  
-- **Analytics & Visualization:** Excel, Power BI (in progress)  
-- **Other Tools:** Git, GitHub, Database Design (ERD)  
+## 📂 Current Work
 
----
+- Building Python & SQL foundations
+- Practicing data transformation logic
+- Preparing for ETL and cloud-based data pipeline projects
 
-## 📫 Connect with Me
-- ✉️ Email: rkarkee14@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/reju-karkee-190bb1218/)  
-- 📂 Portfolio Projects: [GitHub](https://github.com/RejuKarkee)
+Upcoming projects:
+- Mini ETL pipeline
+- Cloud-based data ingestion workflow
+- SQL performance optimization exercises
