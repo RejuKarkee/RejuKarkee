@@ -1,8 +1,7 @@
 # Hi, I'm Reju 👋
 
-Data Engineering Trainee | Python • SQL • Cloud  
-Master’s in Computer Science (GPA 3.9)  
-Google Data Analytics Certified | AWS Cloud Practitioner
+Aspiring Junior Data Engineer | SQL | Python | Cloud Learning
+Currently building foundational data engineering skills through structured SQL practice, ETL mini projects, and cloud coursework (AWS & Azure).
 
 ---
 
