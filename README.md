@@ -1,6 +1,6 @@
 # Hi, I'm Reju 👋
 
-Aspiring Junior Data Engineer | SQL | Python | Cloud Learning
+Data Engineer | SQL | Python | Cloud Learning
 Currently building foundational data engineering skills through structured SQL practice, ETL mini projects, and cloud coursework (AWS & Azure).
 
 ---
