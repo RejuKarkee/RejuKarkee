@@ -1,13 +1,13 @@
 # Hi, I'm Reju 👋
 
-Data Engineer | SQL | Python | Cloud Learning
+Data Enthuiast | SQL | Python | Cloud Learning
 Currently building foundational data engineering skills through structured SQL practice, ETL mini projects, and cloud coursework (AWS & Azure).
 
 ---
 
 ## 🔹 About Me
 
-I am currently transitioning into Data Engineering through structured training and hands-on projects.  
+I am growing through structured training and hands-on projects.  
 
 With a background in data analysis and database design, I am now focusing on building scalable data workflows, SQL optimization, and cloud-based data systems.
 
